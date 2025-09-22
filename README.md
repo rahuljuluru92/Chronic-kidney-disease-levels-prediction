@@ -32,10 +32,5 @@ The Chronic Kidney Disease (CKD) Prediction project is aimed at predicting the s
   - `matplotlib`
   - `seaborn`
 
-You can install the necessary libraries by running:
-
-```bash
-pip install -r requirements.txt
-
 
 
